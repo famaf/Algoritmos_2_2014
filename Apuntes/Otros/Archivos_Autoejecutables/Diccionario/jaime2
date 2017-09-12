@@ -1,0 +1,9 @@
+#! /bin/bash
+
+rm dict.so dict.o main.o
+rm list.so list.o pair.o
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -fPIC -c dict.c pair.c list.c data.c index.c
+gcc -shared -o list.so index.o data.o pair.o list.o
+gcc -shared -o dict.so index.o data.o pair.o list.o dict.o
+python2.7 -m unittest discover -v style_tests/
+valgrind --leak-check=full --show-reachable=yes --log-file=valgring.log python2.7 -m unittest discover -v tests/

@@ -1,0 +1,2 @@
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -g  -o dictionary dict_helpers.o helpers.o index.o data.o pair.o list.o dict.o main.c
+make: «dictionary» está actualizado.

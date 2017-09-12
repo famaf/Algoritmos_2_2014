@@ -1,0 +1,7 @@
+mama: mama
+papa: papa
+perro: perro
+casa: casa
+arbol: verde
+compu: tadora
+batman: batman

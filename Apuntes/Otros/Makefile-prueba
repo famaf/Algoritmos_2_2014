@@ -1,0 +1,11 @@
+
+gcc -shared -o graph.so helpers.o graph.o
+gcc -shared -o heap.so graph.o helpers.o heap.o
+gcc -shared -o priority_queue.so heap.o graph.o helpers.o priority_queue.o
+gcc -shared -o union_find.so union_find.o
+gcc -shared -o stack.so graph.o helpers.o stack.o
+
+python2.7 -m unittest -v tests.test_heap
+python2.7 -m unittest discover -v tests/
+valgrind --leak-check=full --show-reachable=yes --log-file=valgring.log python2.7 -m unittest discover -v tests/
+python2.7 -m unittest discover -v style_tests/

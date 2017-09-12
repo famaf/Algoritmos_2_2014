@@ -1,0 +1,16 @@
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -g   -c -o dict_helpers.o dict_helpers.c
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -g   -c -o helpers.o helpers.c
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -g  -o dictionary dict_helpers.o helpers.o index.o data.o pair.o list.o dict.o main.c
+make: «dictionary» está actualizado.
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -g   -c -o pair.o pair.c
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -g  -o dictionary dict_helpers.o helpers.o index.o data.o pair.o list.o dict.o main.c
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -g  -o dictionary dict_helpers.o helpers.o index.o data.o pair.o list.o dict.o main.c
+make: «dictionary» está actualizado.
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -g  -o dictionary dict_helpers.o helpers.o index.o data.o pair.o list.o dict.o main.c
+make: «dictionary» está actualizado.
+make: «dictionary» está actualizado.
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -g  -o dictionary dict_helpers.o helpers.o index.o data.o pair.o list.o dict.o main.c
+make: «dictionary» está actualizado.
+make: «dictionary» está actualizado.
+make: «dictionary» está actualizado.
+make: «dictionary» está actualizado.

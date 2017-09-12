@@ -1,0 +1,1031 @@
+-- esperamos el menu
+-- pedimos el tamaño
+z
+-- espero encontrar un cero
+==2963== Memcheck, a memory error detector
+==2963== Copyright (C) 2002-2011, and GNU GPL'd, by Julian Seward et al.
+==2963== Using Valgrind-3.7.0 and LibVEX; rerun with -h for copyright info
+==2963== Command: ./dictionary
+==2963== 
+-- agregamos: independiente
+a
+independiente
+el rojo
+-- agregamos: boca
+a
+boca
+el xeneize
+-- agregamos: san lorenzo
+a
+san lorenzo
+el ciclón
+-- agregamos: velez
+a
+velez
+el fortín
+-- agregamos: racing
+a
+racing
+la academia
+-- agregamos: river
+a
+river
+el millonario
+-- agregamos: lanus
+a
+lanus
+el granate
+-- pedimos el tamaño
+z
+-- espero encontrar 7
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 0.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 7.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del dicciona-- buscamos algo que no existe: milan
+s
+milan
+-- buscamos river
+s
+river
+rio en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a buscar en el diccionario: 	->La palabra 'milan' no existe en el diccionario
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a buscar en el diccionario: 	-> La definicion de 'river' es: 'el millonario'
+
+-- borramos independiente
+d
+independiente
+-- pedimos el tamaño
+z
+-- espero encontrar 6
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra que desea eliminar del diccionario: 	-> La palabra fue eliminada exitosamente.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 6.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	-- buscamos independiente
+s
+independiente
+z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a buscar en el diccionario: 	->La palabra 'independiente' no existe en el diccionario
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: -- agregamos: rafaela
+a
+rafaela
+la crema
+-- pedimos el tamaño
+z
+-- espero encontrar 7
+	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 7.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*-- borramos racing
+d
+racing
+-- pedimos el tamaño
+z
+-- espero encontrar 6
+
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra que desea eliminar del diccionario: 	-> La palabra fue eliminada exitosamente.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 6.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	-- hacemos una copia
+c
+-- debería mostrarse el diccionario
+-- vaciamos el diccionario
+e
+-- agregamos al diccionario recien vaciado: rafaela
+a
+rafaela
+la crema
+-- pedimos el tamaño
+z
+-- espero encontrar 1
+e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	El diccionario fue duplicado. Mostrando el diccionario duplicado:
+
+{
+boca: el xeneize
+san lorenzo: el ciclón
+velez: el fortín
+river: el millonario
+lanus: el granate
+rafaela: la crema
+}
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El diccionario fue vaciado.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 1.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    -- pedimos mostrarlo
+h
+-- espero encontrar
+-- {
+-- rafaela: la crema
+-- }
+	*
+*****************************************************************
+
+Introduzca su elección: {
+rafaela: la crema
+}
+-- salir chequeando leaks
+q
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Finalizando...
+
+==2963== 
+==2963== HEAP SUMMARY:
+==2963==     in use at exit: 0 bytes in 0 blocks
+==2963==   total heap usage: 145 allocs, 145 frees, 6,032 bytes allocated
+==2963== 
+==2963== All heap blocks were freed -- no leaks are possible
+==2963== 
+==2963== For counts of detected and suppressed errors, rerun with: -v
+==2963== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+
+SUCCESS
+-- Fixture completed, waiting for process normal exit.
+-- Exit code: 0
+-- esperamos el menu
+-- mostramos el dict vacio
+h
+-- espero encontrar {} (con cualquier cantidad de espacios o lineas en blanco)
+==2969== Memcheck, a memory error detector
+==2969== Copyright (C) 2002-2011, and GNU GPL'd, by Julian Seward et al.
+==2969== Using Valgrind-3.7.0 and LibVEX; rerun with -h for copyright info
+==2969== Command: ./dictionary
+==2969== 
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: {
+}
+-- pedimos el tamaño en un dict vacio
+z
+-- espero encontrar un cero
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 0.
+
+-- buscamos en un dict vacio
+s
+foo
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a buscar en el diccionario: 	->La palabra 'foo' no existe en el diccionario
+
+-- borramos en un dict vacio
+d
+foo
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra que desea eliminar del diccionario: 	-> la palabra 'foo' no existe.
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: -- hacemos una copia
+c
+-- debería mostrarse otro diccionario vacio
+	El diccionario fue duplicado. Mostrando el diccionario duplicado:
+
+{
+}
+
+Elija lo que quiera hacer. Las opciones son:
+
+-- salir chequeando leaks
+q
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Finalizando...
+
+==2969== 
+==2969== HEAP SUMMARY:
+==2969==     in use at exit: 0 bytes in 0 blocks
+==2969==   total heap usage: 6 allocs, 6 frees, 354 bytes allocated
+==2969== 
+==2969== All heap blocks were freed -- no leaks are possible
+==2969== 
+==2969== For counts of detected and suppressed errors, rerun with: -v
+==2969== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+
+SUCCESS
+-- Fixture completed, waiting for process normal exit.
+-- Exit code: 0
+-- esperamos el menu
+-- hacemos dump de dict vacio bajo el nombre empty.dic
+u
+-- espero encontrar el prompt de ingresar nombre de archivo
+-- escribo el nombre de archivo
+empty.dic
+-- espero que me muestre un mensaje con "success" o "exitosamente"
+==3012== Memcheck, a memory error detector
+==3012== Copyright (C) 2002-2011, and GNU GPL'd, by Julian Seward et al.
+==3012== Using Valgrind-3.7.0 and LibVEX; rerun with -h for copyright info
+==3012== Command: ./dictionary
+==3012== 
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	
+¿Como quiere llamar el archivo a guardar?: Dumping dict to filename empty.dic.
+	-> El diccionario fue guardado exitosamente.
+-- agregamos: rojo
+a
+rojo
+De color parecido al del oro
+-- agregamos: azul
+a
+azul
+Del color del cielo sin nubes
+-- agregamos: amarillo
+a
+amarillo
+De color semejante al del oro, la flor de la retama
+-- mostramos el dict de colores primarios
+h
+-- esperamos encontrar
+-- {
+-- rojo: De color parecido al del oro
+-- azul: Del color del cielo sin nubes
+-- amarillo: De color semejante al del oro, la flor de la retama
+-- }
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: {
+rojo: De color parecido al del oro
+azul: Del color del cielo sin nubes
+amarillo: De color semejante al del oro, la flor de la retama
+}
+-- hacemos dump de dict bajo el nombre primary.dic
+u
+-- escribo el nombre de archivo
+primary.dic
+-- espero que me muestre un mensaje con "success" o "exitosamente"
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	
+¿Como quiere llamar el archivo a guardar?: Dumping dict to filename primary.dic.
+	-> El diccionario fue guardado exitosamente.
+-- agregamos: verde
+a
+verde
+De color semejante al de la hierba fresca, la esmeralda
+-- pido el tamaño
+z
+-- espero encontrar 4
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra a añadir al diccionario: 	-> Por favor, ingrese la definicion: 	-> La palabra y su definición fueron agregadas
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 4.
+
+-- cargo el primary.dic pisando el dict con 4 elementos
+l
+-- ingreso el archivo primary.dic
+primary.dic
+-- espero que me muestre un mensaje con "success" o "exitosamente"
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese el nombre del diccionario a cargar: 	El diccionario fue cargado exitosamente.
+
+-- pido el tamaño
+z
+-- espero encontrar 3
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 3.
+
+-- borro azul
+d
+azul
+-- espero que me muestre un mensaje con "success" o "exitosamente"
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	Por favor, ingrese la palabra que desea eliminar del diccionario: 	-> La palabra fue eliminada exitosamente.
+-- pido el tamaño
+z
+-- espero encontrar 2
+
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: 	-> El tamaño es: 2.
+
+-- mostramos el dict de colores primarios sin el azul
+h
+-- esperamos encontrar
+-- {
+-- rojo: De color parecido al del oro
+-- amarillo: De color semejante al del oro, la flor de la retama
+-- }
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: {
+rojo: De color parecido al del oro
+amarillo: De color semejante al del oro, la flor de la retama
+}
+
+Elija lo que quiera hacer. Las opciones son:
+
+*****************************************************************
+*	z: Mostrar el tamaño del diccionario en uso.    	*
+*	s: Buscar una definicion para una palabra dada. 	*
+*	a: Agregar una palabra con su definicion.       	*
+*	d: Borrar una palabra.                          	*
+*	e: Vaciar el diccionario.                       	*
+*	h: Mostrar el diccionario actual.               	*
+*	c: Duplicar el diccionario actual.              	*
+*	l: Cargar un nuevo diccionario desde un archivo.	*
+*	u: Guardar el diccionario actual en un archivo. 	*
+*	q: Finalizar                                    	*
+*****************************************************************
+
+Introduzca su elección: -- cargo
+-- salir chequeando leaks
+q
+	Finalizando...
+
+==3012== 
+==3012== HEAP SUMMARY:
+==3012==     in use at exit: 0 bytes in 0 blocks
+==3012==   total heap usage: 86 allocs, 86 frees, 5,874 bytes allocated
+==3012== 
+==3012== All heap blocks were freed -- no leaks are possible
+==3012== 
+==3012== For counts of detected and suppressed errors, rerun with: -v
+==3012== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+
+SUCCESS
+-- Fixture completed, waiting for process normal exit.
+-- Exit code: 0

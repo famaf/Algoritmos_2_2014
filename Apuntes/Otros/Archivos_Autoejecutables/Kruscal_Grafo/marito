@@ -1,0 +1,7 @@
+#! /bin/bash
+
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -fPIC -g -c heap.c
+
+gcc -shared -o graph.so helpers.o graph.o
+
+gcc -shared -o heap.so graph.o helpers.o heap.o
